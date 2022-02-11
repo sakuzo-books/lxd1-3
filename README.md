@@ -5,8 +5,8 @@
 # 概要
 
 『これは使える！LXDコンテナで作るLinux学習環境 ―ネットワーク編―』のサポートページ  
-https://www.amazon.co.jp/dp/XXXXXXXXXX  
-![これは使える！LXDコンテナで作るLinux学習環境 ―ネットワーク編―](https://images-na.ssl-images-amazon.com/images/P/XXXXXXXX.09.MZZZZZZZ.jpg)
+https://www.amazon.co.jp/dp/B09S8QQ1R8  
+![これは使える！LXDコンテナで作るLinux学習環境 ―ネットワーク編―](https://images-na.ssl-images-amazon.com/images/P/B09S8QQ1R8.09.MZZZZZZZ.jpg)
 
 # 更新履歴
 

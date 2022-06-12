@@ -15,3 +15,7 @@ https://www.amazon.co.jp/dp/B09S8QQ1R8
 # 正誤情報
 
 - [正誤情報](/eratta.md)
+
+# 連絡先
+
+Twitter: [@sakuzo_books](https://twitter.com/sakuzo_books)
